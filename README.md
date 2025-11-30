@@ -248,8 +248,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- 📧 Email: [your-email@vitbhopal.ac.in]
-- 🐛 [Open an Issue](https://github.com/your-username/vit-lost-found/issues)
+- 📧 Email: [ vidhiudasi2@gmail.com]
+- 🐛 [Open an Issue](https://github.com/vidhi-sys/Lost&Found/issues)
 - 💬 Discussion: [GitHub Discussions]
 
 ## 🙏 Acknowledgments
@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Helping students reunite with their lost belongings*
 
-[Report Bug](https://github.com/your-username/vit-lost-found/issues) • [Request Feature](https://github.com/your-username/vit-lost-found/issues)
+[Report Bug](https://github.com/vidhi-sys/Lost&Found/issues) • [Request Feature](https://github.com/vidhi-sys/Lost&Found/issues)
 
 </div>
 
